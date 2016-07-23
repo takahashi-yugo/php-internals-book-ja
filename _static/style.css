@@ -10,3 +10,8 @@ body {
 .about-this-site {
     font-size: 0.9em;
 }
+
+.caption {
+    font-size: 0.7em;
+    text-align: center;
+}
