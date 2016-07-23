@@ -1,5 +1,8 @@
 .. container:: about-this-site
 
+.. note::
+  このサイトは `PHP Internals Book <http://www.phpinternalsbook.com/>`_ の日本語翻訳サイトです。リポジトリは `ここ <https://github.com/takahashi-yugo/php-internals-book-ja>`_ です。
+
 Table Of Contents
 =================
 
