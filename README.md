@@ -1,0 +1,1 @@
+# PHP Internals Book (Japanese)

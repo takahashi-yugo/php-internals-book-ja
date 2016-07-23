@@ -1,0 +1,15 @@
+{% extends "haiku/layout.html" %}
+{%- for cssfile in css_files %}
+<link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
+{%- endfor %}
+
+
+
+{% block footer %}
+<div class="footer">
+このページは<a href="http://www.phpinternalsbook.com/">PHP Internals Book</a>の日本語訳です。
+</div>
+<div class="footer" role="contentinfo">
+        &copy; Copyright 2015, takahashi-yugo.
+</div>
+{% endblock %}
